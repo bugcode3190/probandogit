@@ -1,9 +1,9 @@
 import (
-""
+"fmt"
 )
 
 func main() {
-	printLn("holaaa")
+	fmt.printLn("holaaa")
 	
 	soy diegooo
 }
